@@ -1,0 +1,6 @@
+Khởi động Apache và MySql trên xampp
+Đăng nhập vào phpMyadmin với đường dẫn http://localhost/phpmyadmin/
+tạo database có tên là project7 
+import file sql và phpMyadmin
+
+chạy project ở netbean
